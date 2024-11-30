@@ -15,10 +15,12 @@ export function createServer(): TemplatedApp {
  * @param resp The response sent by the server.
  */
 export function cors(resp: HttpResponse): void {
+/**
     resp.writeHeader("Access-Control-Allow-Origin", "*")
         .writeHeader("Access-Control-Allow-Methods", "GET, POST, PUT, DELETE, OPTIONS")
         .writeHeader("Access-Control-Allow-Headers", "origin, content-type, accept, x-requested-with")
         .writeHeader("Access-Control-Max-Age", "3600");
+*/
 }
 
 export function forbidden(resp: HttpResponse): void {
