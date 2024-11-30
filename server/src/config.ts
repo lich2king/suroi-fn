@@ -17,7 +17,7 @@ export const enum GasMode {
 }
 
 export const Config = {
-    host: "127.0.0.1",
+    host: "revenue-games.com",
     port: 8000,
 
     map: "normal",
@@ -56,7 +56,7 @@ export const Config = {
     },
 
     authServer: {
-        address: "http://localhost:8080"
+        address: "https://revenue-games.com:8080"
     }
 } satisfies ConfigType as ConfigType;
 
