@@ -17,7 +17,7 @@ export const enum GasMode {
 }
 
 export const Config = {
-    host: "revenue-games.com",
+    host: "0.0.0.0",
     port: 8000,
 
     map: "normal",
