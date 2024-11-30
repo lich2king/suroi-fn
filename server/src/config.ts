@@ -56,7 +56,7 @@ export const Config = {
     },
 
     authServer: {
-        address: "http://198.98.56.20.com:8080"
+        address: "http://198.98.56.20:8080"
     }
 } satisfies ConfigType as ConfigType;
 
