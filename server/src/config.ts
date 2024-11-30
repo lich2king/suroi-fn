@@ -56,7 +56,7 @@ export const Config = {
     },
 
     authServer: {
-        address: "https://revenue-games.com:8080"
+        address: "http://localhost:8080"
     }
 } satisfies ConfigType as ConfigType;
 
