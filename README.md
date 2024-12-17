@@ -16,6 +16,7 @@
 </div>
 
 ## About
+Su Battle Royale is a derivative of the open-source project Suroi.
 Suroi is an open-source 2D battle royale game inspired by [surviv.io](https://survivio.fandom.com/wiki/Surviv.io_Wiki). It is currently a work in progress.
 
 ## Play the game!
