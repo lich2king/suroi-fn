@@ -20,7 +20,7 @@ Su Battle Royale is a derivative of the open-source project Suroi.
 Suroi is an open-source 2D battle royale game inspired by [surviv.io](https://survivio.fandom.com/wiki/Surviv.io_Wiki). It is currently a work in progress.
 
 ## Play the game!
-[suroi.io](https://suroi.io)
+[Su Battle Royale]([https://suroi.io](https://unblocked-games.s3.amazonaws.com/su-battle-royale.html))
 
 ## Donate!
 Any amount helps! All donation money goes towards keeping the servers running.
